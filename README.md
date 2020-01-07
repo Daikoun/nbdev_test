@@ -8,16 +8,16 @@
 
 -->
 
-# Project name here
+# nbdev test
 
-> Summary description here.
+> Test nbdev template.
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_test`
 
 ## How to use
 

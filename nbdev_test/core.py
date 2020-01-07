@@ -4,8 +4,5 @@ __all__ = ['print_me']
 
 # Cell
 def print_me(content = None):
-    """
-    A test function to print something.
-    :param content: an optional content to print.
-    """
+    "A test function to print something. `content`, an optional content to print."
     print(content) if content is not None else print("me")
